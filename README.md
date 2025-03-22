@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator made using Tkinter. 
+Simple Calculator with Memory function made using Tkinter. 
